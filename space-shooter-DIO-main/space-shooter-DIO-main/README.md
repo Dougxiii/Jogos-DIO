@@ -1,4 +1,4 @@
-# SPace Shooter DIO
+# Space Shooter DIO
 Projeto de jogo do tipo Space Shooter, desenvolvido como parte do Bootcamp de desenvolvimento de jogos para navegadores promovido pela plataforma [Digital Innovation One](https://www.dio.me/)
 
 ## Sobre o Projeto
